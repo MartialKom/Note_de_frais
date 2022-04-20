@@ -1,0 +1,23 @@
+body{
+	background-color:  #0d0d0d;
+}
+
+.logDiv{
+	margin: auto;
+	width: 20%;
+	margin-top: 150px;
+	color: black;
+}
+
+h1{
+	text-align: center;
+	text-shadow: 3px 3px 3px grey;
+	font-size: 25px;
+}
+
+.main{
+	width: 50%;
+	margin: auto;
+	margin-top: 150px;
+	background-color: darkgrey;
+}
